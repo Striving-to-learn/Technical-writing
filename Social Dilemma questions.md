@@ -40,7 +40,7 @@ For my in-person students, I developed a series of thought-provoking questions t
    ________________________________________________________________________________  
    ________________________________________________________________________________
 
-10. **Can you mention a positive experience or a good deed (mitzvah) that you were able to achieve using technology?**  
+10. **Can you mention a positive experience or a good deed that you were able to achieve using technology?**  
     ________________________________________________________________________________  
     ________________________________________________________________________________
 

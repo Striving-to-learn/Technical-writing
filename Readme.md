@@ -1,0 +1,1 @@
+After years of teaching STEM, programming, and general technical subjects I have decided to take some of the content I created for my in person students and adapt it for an online audience. This series I hope can help others learn more about technology and inspire curiousity. 

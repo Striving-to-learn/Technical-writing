@@ -3,8 +3,8 @@ Hard drives, RAM, CPUs, Lions tigers, and bears oh my.
 What do all of these computer parts do?
 Here are some visual  diagrams of what each component does
 
-
-
+https://github.com/Striving-to-learn/Technical-writing/blob/main/images/Picture1.png
+https://github.com/Striving-to-learn/Technical-writing/blob/main/images/Picture2.png
 Central Processing Unit (CPU)
 Imagine the CPU as the brain of your computer. It's responsible for executing instructions from programs, making calculations, and handling data. In simple terms, it processes everything that happens on your computer. For gaming and demanding tasks, a more powerful CPU ensures smoother performance. Processor speed, measured in gigahertz (GHz), indicates how fast your CPU can perform tasks.
 Graphics Processing Unit (GPU)

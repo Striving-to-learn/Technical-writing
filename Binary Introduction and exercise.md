@@ -4,7 +4,7 @@ Computers are incredibly powerful machines, but have you ever wondered how they 
 
 ## Decimal vs. Binary
 
-- **Decimal** is the numbering system we use every day, with ten digits from 0 to 9.
+- **Decimal** is the numbering system we use daily, with ten digits from 0 to 9.
 - **Binary**, however, is a base-2 system, using only two digits: 0 and 1.
 
 ## Why Do Computers Utilize Binary?
@@ -13,9 +13,10 @@ Computers are incredibly powerful machines, but have you ever wondered how they 
 - **Reliability**: Binary signals are less prone to errors and interference, ensuring data accuracy.
 - **Efficiency**: Binary simplifies calculations, making them faster and more efficient.
 
-If this seems confusing, don't worry! We will be watching a video on the topic, and I will go through some examples on the board. You can watch the video [here](https://youtu.be/ewokFOSxabs?t=109).
-![Binary CHart]([https://github.com/Striving-to-learn/Technical-writing/blob/main/images/Picture1.png](https://github.com/Striving-to-learn/Technical-writing/blob/main/images/binary%20graph.png))  
-I would like you to do these examples by converting decimal numbers to binary and vice versa. On the second page I have provided the above graph with some scratch paper to assist you 
+If this seems confusing, don't worry! We will watch a video on the topic, and I will review some examples on the board. You can watch the video [here](https://youtu.be/ewokFOSxabs?t=109).
+
+![Binary Chart](https://raw.githubusercontent.com/Striving-to-learn/Technical-writing/refs/heads/main/images/binary%20graph.png)  
+I would like you to do these examples by converting decimal numbers to binary and vice versa. On the second page, I have provided the above graph with some scratch paper to assist you 
 Decimal to binary 
 1)	Decimal = 7 Binary =
 2)	Decimal = 65 Binary = 

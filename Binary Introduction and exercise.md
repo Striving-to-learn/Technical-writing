@@ -38,6 +38,6 @@ Binary to decimal
 8.	Binary = 1010111 Decimal = 
 9.	Binary = 101111     Decimal = 
 ## Additional Resources
-[Khan Academy binary video](https://www.youtube.com/watch?v=ewokFOSxabs)
-[extra practice worksheet 1](https://www.math-drills.com/numbersense/base_number_systems_converting_decimal_binary_002qp.1447779970.pdf)
-[extra practice worksheet 2](https://www.math-drills.com/numbersense/base_number_systems_converting_binary_decimal_001qp.1447780017.pdf)
+-[Khan Academy binary video](https://www.youtube.com/watch?v=ewokFOSxabs)
+-[extra practice worksheet 1](https://www.math-drills.com/numbersense/base_number_systems_converting_decimal_binary_002qp.1447779970.pdf)
+-[extra practice worksheet 2](https://www.math-drills.com/numbersense/base_number_systems_converting_binary_decimal_001qp.1447780017.pdf)

@@ -14,7 +14,7 @@ Computers are incredibly powerful machines, but have you ever wondered how they 
 - **Efficiency**: Binary simplifies calculations, making them faster and more efficient.
 
 If this seems confusing, don't worry! We will be watching a video on the topic, and I will go through some examples on the board. You can watch the video [here](https://youtu.be/ewokFOSxabs?t=109).
-placeholder for binary image 
+![Binary CHart]([https://github.com/Striving-to-learn/Technical-writing/blob/main/images/Picture1.png](https://github.com/Striving-to-learn/Technical-writing/blob/main/images/binary%20graph.png))  
 I would like you to do these examples by converting decimal numbers to binary and vice versa. On the second page I have provided the above graph with some scratch paper to assist you 
 Decimal to binary 
 1)	Decimal = 7 Binary =

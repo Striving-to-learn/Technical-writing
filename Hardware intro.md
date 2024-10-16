@@ -62,3 +62,7 @@ Input devices like keyboards and mice allow you to interact with your computer, 
 
 8. **How do SSDs differ from HDDs in terms of storage technology and speed?**  
    ________________________________________________________________________________
+## Additional Resources
+
+- [How It's Made: CPU](https://youtu.be/G2uYU7aD698)
+- [How It's Made: SSD](https://youtu.be/EZJzLQJMdXs)
